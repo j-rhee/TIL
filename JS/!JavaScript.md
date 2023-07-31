@@ -1,6 +1,6 @@
 ### [웹 프론트엔드를 위한 자바스크립트 첫걸음](https://www.inflearn.com/course/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%B2%AB%EA%B1%B8%EC%9D%8C/dashboard)
 강의를 듣고 개념을 정리한 필기 노트입니다.
-마크다운 기반의 애플리케이션 Obsidan으로 작성되었습니다.
+마크다운 기반의 애플리케이션 Obsidian으로 작성되었습니다.
 
 [[1. 변수와 상수]]
 [[2. 자료형과 형변환]]
